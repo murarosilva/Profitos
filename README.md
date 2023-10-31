@@ -2,12 +2,12 @@
 
 # TECHNICAL-SCIENTIFIC PRODUCTION AND KNOWLEDGE NETWORKS ABOUT MEDICINAL PLANTS AND HERBAL MEDICINES IN THE AMAZON
 
-*Nadja Lepsch-Cunha
-Vinicius Muraro
-Henrique Eduardo Mendonça Nascimento
-Alysson Mazoni
-Cecília Nunez
-Maria Beatriz Machado Bonacelli*
+- Nadja Lepsch-Cunha
+- Vinicius Muraro
+- Henrique Eduardo Mendonça Nascimento
+- Alysson Mazoni
+- Cecília Nunez
+- Maria Beatriz Machado Bonacelli
 
 ## Abstract
 Bibliometric data from 2002 and 2022 collected in Scopus platform using 77 descriptor terms related to medicinal plants and phytotherapeutics for the Amazon region obtained 1850 publication records. Brazil was by far the most important country in terms of number of records (1219 or 65.9% of total) which presented approximately five times more publications than the USA, second country with 240 records. Moreover, for Brazil there was a significant increase in the number of publications over the period, while the other countries the increase was weak. Although Brazil had a higher number of citations in absolute terms, it failed with respect to the citation ratio (number of records/number of citations) when compared to several countries. As expected, Brazilian institutions are relevant in terms of number of records, with only five non-Brazilian institutions appearing within the top 30 institutions. Fifteen out of the 20 most productive authors are Brazilian, seven of them based in Amazonian institutions. The analysis of coauthorship of institutional networks revealed four major research clusters dominated by Brazilian Institutions and other three clusters by foreign institutions. Within the Brazilian clusters, five networks emerge, two of which have leadership from institutions in western and eastern Amazonia, UFAM and UFPA, respectively. Both have strong partnerships with regional institutions and, to a lesser extent, with institutions in other Brazilian regions, but no connection with neighboring Amazonian countries. The other three Brazilian clusters are led by institutions from the south and southeast regions, also with much regionalized connections. In fact, the analysis of co-authorship revealed the formation of regionally connected clusters of Brazilian authors. Five core clusters, close to each other, presented connections of authors linked to the same institution or to institutions in the same region, but to lesser extent to institutions in other regions. On the other hand, a cluster formed by foreign institutions, led by a Peruvian author with strong connections with authors from French institutions and a second one formed only by Spanish authors with partnerships with Bolivian authors. We found that most (45% of the total) TRLs (Technology  Readiness Levels) fell in the TRL2 category, which represents the focus on the early stages of technology development and the exploration of various chemical compounds. However, both TRL4-5 and TRL6-9 that represent advancing technology towards real-world applications accounted for 49% of the total.
